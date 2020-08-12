@@ -1,0 +1,1 @@
+cwebp -near_lossless 0 -q 100 -m 6 -z 6 -mt -progress
